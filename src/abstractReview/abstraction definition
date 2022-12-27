@@ -1,0 +1,7 @@
+Abstraction - a programmer hides all but the relevant data about an object in order to reduce complexity and increased efficiency.
+
+objects in an OOP language provide an abstraction that hides the internal implementation details. you just need to know 
+which methods of the object are available to call and which input parameters are needed to trigger a specific operation. 
+you do not need to understand how this method is implemented and which kind of actions it has to perform to create the expected result.
+an example is a car accelerating - you need to know acceleration but do not need to know how the engine/spark plugs are all firing 
+in order to hit on the accelerator and make the car move. 
