@@ -1,0 +1,16 @@
+Polymorphism- Means many forms (of a method).
+Java class can do the same thing in different ways.
+override - example original bird can sign by going "tweet tweet tweet". But not all birds will sing the same.
+when extending the bird class to robin or pelican you can override sing method from the parent class. to override you
+have to implement the exact same method signature as the parent method.
+
+(Method in the child class override a method in the parent class) (resulting in doing the same thing in a different form)
+
+
+Other form of polymorphism METHOD OVERLOADING
+when you have two methods in a class with the same name but take different parameters.
+you cant have the same exact methods but you can have many methods with the same name that take different parameters.
+
+
+
+
