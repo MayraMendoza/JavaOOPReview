@@ -1,4 +1,4 @@
-package objectOrientedProgrammingReview;
+package OOPFundamentalsPolymorphismRewiew;
 
 /**
  * Polymorphism example using inheritance
