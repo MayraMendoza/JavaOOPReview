@@ -11,7 +11,7 @@ class Bird {
 
 class Robin extends Bird{
     // the class robin knows two sing methods, it will prioritize the one directly in the class.
-    // polymorphism - it knows many verison of sing, but it will prioritize the one
+    // polymorphism - it knows many verison of sing, but it will prioritize the one in the child class (by overriding )
     public void sing() {
         System.out.println("Twiddledeedee");
     }
