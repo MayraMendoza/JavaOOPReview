@@ -1,0 +1,6 @@
+encapsulation - is the inclusion of all methods and variables needed for a java object to function, contained within the object iteself.
+
+(in capsule/ like a pill) in java all the setting of variables of a class
+is inside a method.
+The point of encapsulation is to abstract the variables from the user to make it simpler.
+make a set/get method because they are private.
