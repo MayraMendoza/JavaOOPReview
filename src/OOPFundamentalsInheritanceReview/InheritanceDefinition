@@ -1,0 +1,12 @@
+Inheritance is a concept that acquires the properties from one class to another class.
+using methods and properties from a generic class and making different versions of them.
+One example is the relationship between father and son. Inheritance in Java is a process of acquiring all thr behaviours of a parent object.
+
+Types of Inheritance
+single Inheritance - in single inheritance, subclasses inherit the features of one superclass/parent class.
+
+Multilevel Inheritance - in Multilevel Inheritance, a derived class will be inheriting a base/parent class and as well as the derived
+class also acts as the base/parent class for other classes.
+Example A is base/super class for the derived class B--- which can serve as a base/parent class for another class (C)
+B extends A
+C extends B (C will inherit all of A & B methods)
